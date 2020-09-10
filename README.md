@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hi weirdos!
+Make sure to keep on going !
